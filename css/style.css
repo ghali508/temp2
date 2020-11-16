@@ -415,8 +415,8 @@ header {
 .sprite-icon-1,
 .sprite-icon-2,
 .sprite-icon-3,
-.sprite-icon-4,
-.sprite-icon-5 {
+.sprite-icon-5,
+.sprite-icon-4 {
   transition: all 0.5s ease 0s;
 }
 .sprite-icon-1 {
